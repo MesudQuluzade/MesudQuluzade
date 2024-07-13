@@ -13,7 +13,7 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Senior Software Engineer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl1MXo2b3dmM3poN3g2ZzU1ZGQ0bWg1d3BlZmlkcXptajl0a3k3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/loLO30j5PEbLgAqt63/giphy.gif" width="30">
+### :man_technologist: About Me : I am a Junior Front End Develope <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl1MXo2b3dmM3poN3g2ZzU1ZGQ0bWg1d3BlZmlkcXptajl0a3k3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/loLO30j5PEbLgAqt63/giphy.gif" width="30">
 
 - :floppy_disk: You can find my projects here www.mesudservice.com (Official Web site)
 
