@@ -22,7 +22,7 @@
 - ✉️ How to reach me: quluzademesud6@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My skill  :
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
