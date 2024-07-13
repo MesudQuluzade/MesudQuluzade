@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1400/0*08Ge7j9DdoWx1KjA.gif" width="220"/>
+  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a Junior Front End Develope <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl1MXo2b3dmM3poN3g2ZzU1ZGQ0bWg1d3BlZmlkcXptajl0a3k3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/loLO30j5PEbLgAqt63/giphy.gif" width="30">
+### :man_technologist: About Me : I am a Junior Front End Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl1MXo2b3dmM3poN3g2ZzU1ZGQ0bWg1d3BlZmlkcXptajl0a3k3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/loLO30j5PEbLgAqt63/giphy.gif" width="30">
 
 - :floppy_disk: You can find my projects here www.mesudservice.com (Official Web site)
 
@@ -22,7 +22,7 @@
 - ✉️ How to reach me: quluzademesud6@gmail.com
 ---
 
-### :hammer_and_wrench: My skill  :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
