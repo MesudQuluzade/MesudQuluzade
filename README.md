@@ -2,7 +2,7 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Masud Guluzade</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=10000&size=40&pause=1000&color=6F01EC&center=true&vCenter=true&random=true&width=1000&height=35&lines=;I+am+Junior+Frontend+Developer;React+Developer;Web+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=50&pause=1000&color=6F01EC&center=true&vCenter=true&random=true&width=1000&height=35&lines=;I+am+Junior+Frontend+Developer;React+Developer;Web+Developer)
 
 
 ### 🧑🏻‍💻 About:
@@ -11,7 +11,7 @@
 - :elevator: I’m looking to collaborate on open source
 
 - ✉️ How to reach me: quluzademesud6@gmail.com
----
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -21,7 +21,9 @@
 ### 🖥️ My Skills:
 ![My Skills](https://skillicons.dev/icons?i=vscode,figma)
 
+  ---
 
+  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### ♻️ Most Used Languages
