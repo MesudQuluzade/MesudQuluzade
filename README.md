@@ -11,7 +11,7 @@
 - :elevator: I’m looking to collaborate on open source
 
 - ✉️ How to reach me: quluzademesud6@gmail.com
-
+---
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -21,8 +21,7 @@
 ### 🖥️ My Skills:
 ![My Skills](https://skillicons.dev/icons?i=vscode,figma)
 
-  ---
-
+  ----
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
